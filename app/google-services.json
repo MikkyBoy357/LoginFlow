@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "24318503252",
+    "project_id": "loginflow-9ab6d",
+    "storage_bucket": "loginflow-9ab6d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24318503252:android:8e5964cc6daa3f516bc0c1",
+        "android_client_info": {
+          "package_name": "com.mikkyboy.loginflow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "24318503252-k11inqp0i4kt7rqel5prloulnat1fh59.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6P2qHMhgNUAArXJDuZh9uk5bU_b36X9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "24318503252-k11inqp0i4kt7rqel5prloulnat1fh59.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
